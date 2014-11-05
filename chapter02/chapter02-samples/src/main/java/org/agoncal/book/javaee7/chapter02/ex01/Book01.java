@@ -28,10 +28,10 @@ public class Book01 {
   public Book01() {
   }
 
-  public Book01(String title, Float price, String description) {
-    this.title = title;
-    this.price = price;
-    this.description = description;
+  public Book01(String aTitle, Float aPrice, String aDescription) {
+    this.title = aTitle;
+    this.price = aPrice;
+    this.description = aDescription;
   }
 
   // ======================================
